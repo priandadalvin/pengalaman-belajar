@@ -17,3 +17,5 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progres 100%)
 - Pengenalan Dasar Computational Thinking
 - Mengerti bagaimana ilmu logika pemrograman yang telah dipelajari dapat digunakan pada studi kasus yang nyata
 - Nilai ujian akhir : 100 
+
+Ini adalah latihan untuk membuat branch baru di GitHub
