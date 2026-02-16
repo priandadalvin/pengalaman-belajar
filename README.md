@@ -1,7 +1,7 @@
 # pengalaman-belajar
 Pengalaman belajar di Coding Camp 2026
 
-14 Februari 2026
+**14 Februari 2026**<br>
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)
 - Memahami Kebutuhan Aplikasi
 - Perencanaan Modifikasi Aplikasi
@@ -10,7 +10,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)
 - Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
 - Nilai ujian akhir : 100
 
-15 Februari 2026
+**15 Februari 2026**<br>
 Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progres 100%)
 - Pengenalan istilah logika dan algoritma dan jenis-jenis logika pemrograman dasar
 - Belajar Gerbang Logika
