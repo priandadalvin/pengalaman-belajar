@@ -17,3 +17,12 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progres 100%)
 - Pengenalan Dasar Computational Thinking
 - Mengerti bagaimana ilmu logika pemrograman yang telah dipelajari dapat digunakan pada studi kasus yang nyata
 - Nilai ujian akhir : 100 
+
+**16 Februari 2026**<br>
+Belajar Dasar Git dengan GitHub (Progres 100%)
+- Pengenalan Git dan GitHub
+- Belajar dasar Git
+- Belajar Git Branches
+- Mengerti cara berkolaborasi dengan tim di GitHub
+- Studi kasus kolaborasi dengan tim
+- GitHub sebagai portofolio
